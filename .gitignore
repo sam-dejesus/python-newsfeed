@@ -13,3 +13,5 @@ htmlcov/
 dist/
 build/
 *.egg-info/
+
+# python -m flask run will run the server
