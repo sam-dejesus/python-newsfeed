@@ -14,4 +14,5 @@ dist/
 build/
 *.egg-info/
 
-# python -m flask run will run the server
+# python -m flask run     will run the server
+# . venv/bin/activate
